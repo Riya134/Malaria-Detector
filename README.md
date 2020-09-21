@@ -4,10 +4,10 @@ This project uses Keras to detect Malaria from Images. The model used is trained
 
 # Parasitized
 # Uninfected
-Below are the steps:-
-1.Upload Image: The user can upload the medical test image through a workstation running on Windows OS. The image should be in jpeg, png or jpg format.
-2.Read Image: The image will be scanned before augmentation takes place.
-3.Evaluate image using saved model: The saved custom model creates a feature map of the uploaded medical test image and predicts the output.
-4.Determine and Analyze the Output: The predicted output is then analyzed and converted to a user friendly language.
+Below are the steps:-</br>
+1.Upload Image: The user can upload the medical test image through a workstation running on Windows OS. The image should be in jpeg, png or jpg format.</br>
+2.Read Image: The image will be scanned before augmentation takes place.</br>
+3.Evaluate image using saved model: The saved custom model creates a feature map of the uploaded medical test image and predicts the output.</br>
+4.Determine and Analyze the Output: The predicted output is then analyzed and converted to a user friendly language.</br>
 5.Display the Output: The analyzed result is then displayed to the user.
 
